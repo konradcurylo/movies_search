@@ -1,0 +1,723 @@
+[
+{
+    "model": "movie_api.movie",
+    "pk": 1,
+    "fields": {
+        "title": "Rambo",
+        "year": "2008",
+        "rated": "R",
+        "released": "25 Jan 2008",
+        "runtime": "92 min",
+        "genre": "Action, Thriller, War",
+        "director": "Sylvester Stallone",
+        "writer": "Art Monterastelli, Sylvester Stallone, David Morrell (character)",
+        "actors": "Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish",
+        "plot": "In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit.",
+        "language": "English, Burmese, Thai",
+        "country": "Germany, USA",
+        "awards": "1 win & 1 nomination.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI5Mjg1MzM4NF5BMl5BanBnXkFtZTcwNTAyNzUzMw@@._V1_SX300.jpg",
+        "metascore": "46",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "27 May 2008",
+        "boxOffice": "",
+        "production": "Lionsgate",
+        "website": "http://movies.break.com/rambo/"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 2,
+    "fields": {
+        "title": "Spiderman",
+        "year": "1990",
+        "rated": "N/A",
+        "released": "N/A",
+        "runtime": "5 min",
+        "genre": "Short",
+        "director": "Christian Davi",
+        "writer": "N/A",
+        "actors": "N/A",
+        "plot": "N/A",
+        "language": "German",
+        "country": "Switzerland",
+        "awards": "N/A",
+        "poster": "N/A",
+        "metascore": "N/A",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "N/A",
+        "boxOffice": "",
+        "production": "N/A",
+        "website": "N/A"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 3,
+    "fields": {
+        "title": "Pianista",
+        "year": "2005",
+        "rated": "N/A",
+        "released": "05 Oct 2005",
+        "runtime": "3 min",
+        "genre": "Short",
+        "director": "Cecilia Mart\u00ednez, Luis Manuel Rodr\u00edguez",
+        "writer": "Cecilia Mart\u00ednez",
+        "actors": "Odille V. Lauria, Pedro Mira",
+        "plot": "N/A",
+        "language": "Spanish",
+        "country": "Mexico",
+        "awards": "N/A",
+        "poster": "N/A",
+        "metascore": "N/A",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "N/A",
+        "boxOffice": "",
+        "production": "N/A",
+        "website": "N/A"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 4,
+    "fields": {
+        "title": "Schindler: The Real Story",
+        "year": "1983",
+        "rated": "N/A",
+        "released": "N/A",
+        "runtime": "N/A",
+        "genre": "Documentary",
+        "director": "Jon Blair",
+        "writer": "Jon Blair",
+        "actors": "Dirk Bogarde, Emilie Schindler, Oskar Schindler",
+        "plot": "The true story of Oskar Schindler's exploits in which he saved a thousand Jews from the ovens of the death camps, s told by first hand witnesses. The British Academy Award winning ...",
+        "language": "English, German, Polish",
+        "country": "UK",
+        "awards": "1 win.",
+        "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4MTY0OTY4NV5BMl5BanBnXkFtZTcwOTgxMjMyMQ@@._V1_SX300.jpg",
+        "metascore": "N/A",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "N/A",
+        "boxOffice": "",
+        "production": "N/A",
+        "website": "N/A"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 5,
+    "fields": {
+        "title": "Schindler's List",
+        "year": "1993",
+        "rated": "R",
+        "released": "04 Feb 1994",
+        "runtime": "195 min",
+        "genre": "Biography, Drama, History",
+        "director": "Steven Spielberg",
+        "writer": "Thomas Keneally (book), Steven Zaillian (screenplay)",
+        "actors": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall",
+        "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "language": "English, Hebrew, German, Polish",
+        "country": "USA",
+        "awards": "Won 7 Oscars. Another 82 wins & 49 nominations.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "metascore": "93",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "09 Mar 2004",
+        "boxOffice": "",
+        "production": "Universal Pictures",
+        "website": "http://www.schindlerslist.com"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 6,
+    "fields": {
+        "title": "Seven Samurai",
+        "year": "1954",
+        "rated": "Not Rated",
+        "released": "19 Nov 1956",
+        "runtime": "207 min",
+        "genre": "Adventure, Drama",
+        "director": "Akira Kurosawa",
+        "writer": "Akira Kurosawa (screenplay), Shinobu Hashimoto (screenplay), Hideo Oguni (screenplay)",
+        "actors": "Toshir\u00f4 Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki",
+        "plot": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+        "language": "Japanese",
+        "country": "Japan",
+        "awards": "Nominated for 2 Oscars. Another 5 wins & 6 nominations.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2RhYzQ2YTUtYzk0Yy00MTc2LThjNDQtNGVkMDkzNzZiYjVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "metascore": "98",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "01 Mar 1999",
+        "boxOffice": "",
+        "production": "Columbia Pictures",
+        "website": "N/A"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 7,
+    "fields": {
+        "title": "Se7en",
+        "year": "1995",
+        "rated": "R",
+        "released": "22 Sep 1995",
+        "runtime": "127 min",
+        "genre": "Crime, Drama, Mystery, Thriller",
+        "director": "David Fincher",
+        "writer": "Andrew Kevin Walker",
+        "actors": "Morgan Freeman, Andrew Kevin Walker, Daniel Zacapa, Brad Pitt",
+        "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "language": "English",
+        "country": "USA",
+        "awards": "Nominated for 1 Oscar. Another 25 wins & 33 nominations.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "metascore": "65",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "14 Apr 1997",
+        "boxOffice": "",
+        "production": "New Line Cinema",
+        "website": "N/A"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 8,
+    "fields": {
+        "title": "Redemption",
+        "year": "2013",
+        "rated": "R",
+        "released": "28 Jun 2013",
+        "runtime": "100 min",
+        "genre": "Action, Crime, Drama, Thriller",
+        "director": "Steven Knight",
+        "writer": "Steven Knight",
+        "actors": "Jason Statham, Agata Buzek, Vicky McClure, Benedict Wong",
+        "plot": "Homeless and on the run from a military court martial, a damaged ex-special forces soldier navigating London's criminal underworld seizes an opportunity to assume another man's identity -- transforming into an avenging angel in the process.",
+        "language": "English, Polish, Cantonese, Italian",
+        "country": "UK, USA",
+        "awards": "N/A",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjI0ODc3NjI4NV5BMl5BanBnXkFtZTcwOTc3MzI1OQ@@._V1_SX300.jpg",
+        "metascore": "43",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "N/A",
+        "boxOffice": "",
+        "production": "Roadside Attractions",
+        "website": "http://redemption-themovie.net/"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 9,
+    "fields": {
+        "title": "Intouchables",
+        "year": "2016",
+        "rated": "N/A",
+        "released": "01 May 2016",
+        "runtime": "19 min",
+        "genre": "Short, Drama",
+        "director": "Junyi Shen",
+        "writer": "N/A",
+        "actors": "N/A",
+        "plot": "Meng Xia's son is lost. He is among the tens of thousands, mostly boys, who are kidnapped and sold in China.",
+        "language": "Chinese",
+        "country": "China",
+        "awards": "N/A",
+        "poster": "N/A",
+        "metascore": "N/A",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "N/A",
+        "boxOffice": "",
+        "production": "N/A",
+        "website": "N/A"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 10,
+    "fields": {
+        "title": "The Godfather",
+        "year": "1972",
+        "rated": "R",
+        "released": "24 Mar 1972",
+        "runtime": "175 min",
+        "genre": "Crime, Drama",
+        "director": "Francis Ford Coppola",
+        "writer": "Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by), Mario Puzo (based on the novel by)",
+        "actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+        "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "language": "English, Italian, Latin",
+        "country": "USA",
+        "awards": "Won 3 Oscars. Another 24 wins & 28 nominations.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "metascore": "100",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "09 Oct 2001",
+        "boxOffice": "",
+        "production": "Paramount Pictures",
+        "website": "http://www.thegodfather.com"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 11,
+    "fields": {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "rated": "PG-13",
+        "released": "06 Jul 1994",
+        "runtime": "142 min",
+        "genre": "Drama, Romance",
+        "director": "Robert Zemeckis",
+        "writer": "Winston Groom (novel), Eric Roth (screenplay)",
+        "actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
+        "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+        "language": "English",
+        "country": "USA",
+        "awards": "Won 6 Oscars. Another 40 wins & 67 nominations.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "metascore": "82",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "28 Aug 2001",
+        "boxOffice": "",
+        "production": "Paramount Pictures",
+        "website": "http://www.paramount.com/movies/forrest-gump/"
+    }
+},
+{
+    "model": "movie_api.movie",
+    "pk": 12,
+    "fields": {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "rated": "R",
+        "released": "14 Oct 1994",
+        "runtime": "142 min",
+        "genre": "Drama",
+        "director": "Frank Darabont",
+        "writer": "Stephen King (short story \"Rita Hayworth and Shawshank Redemption\"), Frank Darabont (screenplay)",
+        "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+        "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "language": "English",
+        "country": "USA",
+        "awards": "Nominated for 7 Oscars. Another 19 wins & 32 nominations.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "metascore": "80",
+        "imdbRating": "",
+        "imdbVotes": "",
+        "imdbID": "",
+        "type": "movie",
+        "dvd": "27 Jan 1998",
+        "boxOffice": "",
+        "production": "Columbia Pictures",
+        "website": "N/A"
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 1,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "7.0/10",
+        "movie": 1
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 2,
+    "fields": {
+        "source": "Rotten Tomatoes",
+        "value": "37%",
+        "movie": 1
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 3,
+    "fields": {
+        "source": "Metacritic",
+        "value": "46/100",
+        "movie": 1
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 4,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "5.7/10",
+        "movie": 2
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 5,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "4.7/10",
+        "movie": 4
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 6,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "8.9/10",
+        "movie": 5
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 7,
+    "fields": {
+        "source": "Rotten Tomatoes",
+        "value": "97%",
+        "movie": 5
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 8,
+    "fields": {
+        "source": "Metacritic",
+        "value": "93/100",
+        "movie": 5
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 9,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "8.7/10",
+        "movie": 6
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 10,
+    "fields": {
+        "source": "Rotten Tomatoes",
+        "value": "100%",
+        "movie": 6
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 11,
+    "fields": {
+        "source": "Metacritic",
+        "value": "98/100",
+        "movie": 6
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 12,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "8.6/10",
+        "movie": 7
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 13,
+    "fields": {
+        "source": "Rotten Tomatoes",
+        "value": "81%",
+        "movie": 7
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 14,
+    "fields": {
+        "source": "Metacritic",
+        "value": "65/100",
+        "movie": 7
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 15,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "6.2/10",
+        "movie": 8
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 16,
+    "fields": {
+        "source": "Rotten Tomatoes",
+        "value": "49%",
+        "movie": 8
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 17,
+    "fields": {
+        "source": "Metacritic",
+        "value": "43/100",
+        "movie": 8
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 18,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "8.1/10",
+        "movie": 9
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 19,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "9.2/10",
+        "movie": 10
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 20,
+    "fields": {
+        "source": "Rotten Tomatoes",
+        "value": "98%",
+        "movie": 10
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 21,
+    "fields": {
+        "source": "Metacritic",
+        "value": "100/100",
+        "movie": 10
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 22,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "8.8/10",
+        "movie": 11
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 23,
+    "fields": {
+        "source": "Rotten Tomatoes",
+        "value": "72%",
+        "movie": 11
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 24,
+    "fields": {
+        "source": "Metacritic",
+        "value": "82/100",
+        "movie": 11
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 25,
+    "fields": {
+        "source": "Internet Movie Database",
+        "value": "9.3/10",
+        "movie": 12
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 26,
+    "fields": {
+        "source": "Rotten Tomatoes",
+        "value": "91%",
+        "movie": 12
+    }
+},
+{
+    "model": "movie_api.rating",
+    "pk": 27,
+    "fields": {
+        "source": "Metacritic",
+        "value": "80/100",
+        "movie": 12
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 2,
+    "fields": {
+        "comment_content": "Znakomity film akcji, polecam wszytskim",
+        "movie": 1,
+        "date": "2019-06-05T11:54:13.798Z",
+        "author": "Micha\u0142"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 3,
+    "fields": {
+        "comment_content": "Wspania\u0142y film",
+        "movie": 3,
+        "date": "2019-06-05T11:54:46.408Z",
+        "author": "Bo\u017cena W"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 4,
+    "fields": {
+        "comment_content": "wzruszaj\u0105cy film",
+        "movie": 5,
+        "date": "2019-06-05T11:55:19.769Z",
+        "author": "Anna"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 5,
+    "fields": {
+        "comment_content": "co\u015b wspania\u0142ego, zapami\u0119tam do ko\u0144ca \u017cycia",
+        "movie": 12,
+        "date": "2019-06-05T12:31:42.375Z",
+        "author": "Jurek"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 6,
+    "fields": {
+        "comment_content": "wci\u0105gaj\u0105cy",
+        "movie": 12,
+        "date": "2019-06-05T12:32:45.254Z",
+        "author": "Andrzej"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 7,
+    "fields": {
+        "comment_content": "the best ever",
+        "movie": 12,
+        "date": "2019-06-05T12:32:55.014Z",
+        "author": "Joanna"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 8,
+    "fields": {
+        "comment_content": "Przyjemnie si\u0119 ogl\u0105da\u0142o",
+        "movie": 2,
+        "date": "2019-06-05T12:34:18.444Z",
+        "author": "Canelo"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 9,
+    "fields": {
+        "comment_content": "Zajeb**isty",
+        "movie": 7,
+        "date": "2019-06-05T12:34:42.816Z",
+        "author": "Canelo"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 10,
+    "fields": {
+        "comment_content": "Arcydzie\u0142o",
+        "movie": 7,
+        "date": "2019-06-05T12:34:53.096Z",
+        "author": "Max"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 11,
+    "fields": {
+        "comment_content": "Fantastyczny. Polecam",
+        "movie": 7,
+        "date": "2019-06-05T12:35:07.417Z",
+        "author": "Ola"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 12,
+    "fields": {
+        "comment_content": "To zako\u0144czenie. Arcydzie\u0142o",
+        "movie": 7,
+        "date": "2019-06-05T12:35:28.710Z",
+        "author": "Marek"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 13,
+    "fields": {
+        "comment_content": "Kaszanka",
+        "movie": 6,
+        "date": "2019-06-05T12:35:45.927Z",
+        "author": "Marek"
+    }
+},
+{
+    "model": "movie_api.comment",
+    "pk": 14,
+    "fields": {
+        "comment_content": "Co to mia\u0142o by\u0107",
+        "movie": 6,
+        "date": "2019-06-05T12:35:58.557Z",
+        "author": "Jurek"
+    }
+}
+]

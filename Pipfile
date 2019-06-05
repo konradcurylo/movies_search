@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+django-extensions = "*"
+ipython = "*"
+django-utils = "*"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+requests = "*"
+django-filter = "*"
+gunicorn = "*"
+django-heroku = "*"
+"psycopg2-binary" = "*"
+
+[requires]
+python_version = "3.6"
